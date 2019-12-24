@@ -1,0 +1,1175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c8a5034-7507-46d6-9612-e60b1ce1d6a2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../JunYi_Liu/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/custom/AFPallStudentMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/custom/CFPhfDetails.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/custom/addDetails.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/custom/addStudentMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/custom/allStudentMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/custom/cjcyallStudentMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/custom/cjkjStudentMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/custom/cjkjallStudentMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/custom/jiJinStudentMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/custom/jijinallStudentMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/custom/kjcyStudentMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/custom/kjcyallStudentMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/custom/passDetails.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/custom/passStudentMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/custom/publiceHFDetails.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/custom/qiHuoStudentMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/custom/qihuoallStudentMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/custom/specialDetails.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/custom/specialStudentMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/custom/studentDetails.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/custom/yinCongStudentMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/custom/yincongallStudentMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/custom/zhengQuanStudentMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/custom/zhengquanallStudentMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/custom/zhongJiStudentMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/custom/zhongjiallStudentMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/executive/accountDetails.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/executive/accountStudent.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/executive/buyOnline.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/executive/colseCourse.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/executive/matchMoney.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/executive/networkTrain.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/executive/studentDetails.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/executive/studentMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/finance/financeStudentMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/finance/macthinfor.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/finance/networkTrain.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/operate/jinkaouser.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/operate/resourcesMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/operate/studentMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/operate/transferRecord.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/page404_2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/patter/myPatter.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/patter/patterType.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/report/performance.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/report/userCount.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/sales/companyResourcesMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/sales/details.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/sales/resourcesMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/sales/salesTelAmount.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/sales/studentDetails.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/sales/studentMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/sales/transferRecord.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/system/charts.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/system/courseMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/system/deptMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/system/email.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/system/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/system/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/system/messageMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/system/meunMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/system/resetPwd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/system/roleMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/system/subjectMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/jsp/system/userMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/Qrcode_swetake.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/Sdk4J.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/activation.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/alipay-sdk-java20160803120101.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/antlr.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/asm-4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/aspectjrt-1.6.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/aspectjweaver-1.6.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/async-http-client-1.8.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/axis-ant.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/axis.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/bcpkix-jdk15on-152.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/bcprov-jdk15on-152.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/cglib-3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/commons-beanutils-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/commons-codec-1.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/commons-collections.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/commons-dbcp-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/commons-discovery-0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/commons-email-1.2-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/commons-email-1.2-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/commons-email-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/commons-fileupload-1.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/commons-fileupload-1.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/commons-httpclient-3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/commons-io-2.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/commons-io-2.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/commons-lang-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/commons-logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/commons-pool-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/core-3.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/dom4j-1.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/ehcache-core-2.5.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/ehcache-spring-annotations-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/ejb3-persistence.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/excelutils.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/ezmorph-1.0.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/fastjson-1.1.37.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/gson-2.2.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/guava-13.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/httpclient-4.5.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/httpcore-4.4.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/jackson-annotations-2.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/jackson-core-2.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/jackson-core-asl-1.9.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/jackson-databind-2.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/jackson-mapper-asl-1.9.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/jave-1.0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/jaxen-1.1-beta-6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/jaxrpc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/jdom.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/jpush-client-3.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/json-lib-2.4-jdk15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/json.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/jsoup-1.8.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/log4j-adapter-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/log4j.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/mail.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/mongo-java-driver-3.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/mybatis-3.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/mybatis-spring-1.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.30-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/netty-3.9.2.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/pinyin4j-2.5.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/poi-3.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/poi-3.7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/quartz-all-1.8.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/saaj.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/servlet-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/shiro-cas-1.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/shiro-core-1.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/shiro-ehcache-1.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/shiro-spring-1.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/shiro-web-1.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/slf4j-api-1.7.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/slf4j-log4j12-1.7.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/smsservice.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/spring-aop-3.2.13.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/spring-beans-3.2.13.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/spring-context-3.2.13.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/spring-context-support-3.2.13.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/spring-core-3.2.13.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/spring-expression-3.2.13.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/spring-jdbc-3.2.13.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/spring-test-3.2.6.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/spring-tx-3.2.13.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/spring-web-3.2.13.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/spring-webmvc-3.2.13.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/stax-api-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/stax-utils-20040917.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/tls_sig_api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/tm-extractors-0.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/ueditor-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/ueditor-1.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/urlrewritefilter-4.0.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/wsdl4j-1.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/wstx-asl-3.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/xmlpull-1.1.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/xom-1.2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/xpp3-1.1.4c.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/xpp3_min-1.1.4c.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/lib/xstream-1.4.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/common/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/common/css/common.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/common/css/details.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/common/css/jquery.datetimepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/common/css/page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/common/css/winTip.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/common/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/common/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/common/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/common/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/common/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/common/img/close1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/common/js/ajaxPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/common/js/angular.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/common/js/boot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/common/js/echarts.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/common/js/jquery-1.11.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/common/js/jquery.datetimepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/common/js/js-extend.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/common/js/mydefinel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/common/js/reconnecting-websocket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/common/js/winTip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/custom/js/AFPStudentMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/custom/js/AFPallStudentMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/custom/js/CFPStudentMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/custom/js/CFPallStudentMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/custom/js/addDetails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/custom/js/addStudentMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/custom/js/cjkjStudentMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/custom/js/cjkjallStudentMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/custom/js/hfDetails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/custom/js/jiJinStudentMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/custom/js/jijinallStudentMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/custom/js/kjcyStudentMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/custom/js/kjcyallStudentMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/custom/js/passStudentMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/custom/js/pubilcAllstudent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/custom/js/qiHuoStudentMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/custom/js/qihuoallStudentMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/custom/js/specialStudentMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/custom/js/yinCongStudentMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/custom/js/yincongallStudentMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/custom/js/zhengQuanStudentMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/custom/js/zhengquanallStudentMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/custom/js/zhongJiStudentMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/custom/js/zhongjiallStudentMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/executive/js/accountStudent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/executive/js/buyOline.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/executive/js/colseCourse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/executive/js/matchMoney.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/executive/js/networkTrain.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/executive/js/studentDetails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/executive/js/studentMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/finance/js/financeStudentMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/finance/js/macthinfor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/finance/js/networkTrain.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/operate/css/resourcesMang.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/operate/img/upload.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/operate/js/jinkaouser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/operate/js/resourceMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/operate/js/studentMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/operate/js/transfer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/patter/css/myPatter.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/patter/img/close1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/patter/js/myPatter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/patter/js/patterType.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/report/css/performance.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/report/css/userCount.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/report/js/performance.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/sales/js/companyResourcesMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/sales/js/details.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/sales/js/salesResource.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/sales/js/salesTelAmount.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/sales/js/studentDetails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/sales/js/studentMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/system/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/system/css/resetPwd.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/system/css/userMang.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/system/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/system/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/system/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/system/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/system/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/system/img/finishpwd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/system/img/headelogo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/system/img/login_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/system/img/login_bj.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/system/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/system/img/reset.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/system/img/resetPwd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/system/img/send.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/system/img/tishi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/system/img/title.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/system/js/courseMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/system/js/deptMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/system/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/system/js/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/system/js/menuMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/system/js/messageMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/system/js/roleMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/system/js/subjectMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/system/js/userMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/anchor/anchor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/attachment/attachment.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/attachment/attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/attachment/attachment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/attachment/fileTypeImages/icon_chm.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/attachment/fileTypeImages/icon_default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/attachment/fileTypeImages/icon_doc.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/attachment/fileTypeImages/icon_exe.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/attachment/fileTypeImages/icon_jpg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/attachment/fileTypeImages/icon_mp3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/attachment/fileTypeImages/icon_mv.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/attachment/fileTypeImages/icon_pdf.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/attachment/fileTypeImages/icon_ppt.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/attachment/fileTypeImages/icon_psd.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/attachment/fileTypeImages/icon_rar.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/attachment/fileTypeImages/icon_txt.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/attachment/fileTypeImages/icon_xls.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/attachment/images/alignicon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/attachment/images/alignicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/attachment/images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/attachment/images/file-icons.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/attachment/images/file-icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/attachment/images/icons.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/attachment/images/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/attachment/images/image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/attachment/images/progress.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/attachment/images/success.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/attachment/images/success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/background/background.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/background/background.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/background/background.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/background/images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/background/images/success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/charts/chart.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/charts/charts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/charts/charts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/charts/charts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/charts/images/charts0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/charts/images/charts1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/charts/images/charts2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/charts/images/charts3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/charts/images/charts4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/charts/images/charts5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/emotion/emotion.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/emotion/emotion.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/emotion/emotion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/emotion/images/0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/emotion/images/bface.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/emotion/images/cface.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/emotion/images/fface.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/emotion/images/jxface2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/emotion/images/neweditor-tab-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/emotion/images/tface.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/emotion/images/wface.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/emotion/images/yface.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/gmap/gmap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/help/help.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/help/help.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/help/help.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/image/image.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/image/image.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/image/image.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/image/images/alignicon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/image/images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/image/images/icons.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/image/images/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/image/images/image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/image/images/progress.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/image/images/success.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/image/images/success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/insertframe/insertframe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/internal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/link/link.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/map/map.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/map/show.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/music/music.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/music/music.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/music/music.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/preview/preview.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/scrawl/images/addimg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/scrawl/images/brush.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/scrawl/images/delimg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/scrawl/images/delimgH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/scrawl/images/empty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/scrawl/images/emptyH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/scrawl/images/eraser.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/scrawl/images/redo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/scrawl/images/redoH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/scrawl/images/scale.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/scrawl/images/scaleH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/scrawl/images/size.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/scrawl/images/undo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/scrawl/images/undoH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/scrawl/scrawl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/scrawl/scrawl.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/scrawl/scrawl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/searchreplace/searchreplace.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/searchreplace/searchreplace.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/snapscreen/snapscreen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/spechars/spechars.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/spechars/spechars.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/table/dragicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/table/edittable.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/table/edittable.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/table/edittable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/table/edittd.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/table/edittip.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/template/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/template/images/bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/template/images/pre0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/template/images/pre1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/template/images/pre2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/template/images/pre3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/template/images/pre4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/template/template.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/template/template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/template/template.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/video/images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/video/images/center_focus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/video/images/file-icons.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/video/images/file-icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/video/images/icons.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/video/images/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/video/images/image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/video/images/left_focus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/video/images/none_focus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/video/images/progress.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/video/images/right_focus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/video/images/success.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/video/images/success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/video/video.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/video/video.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/video/video.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/webapp/webapp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/wordimage/fClipboard_ueditor.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/wordimage/imageUploader.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/wordimage/tangram.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/wordimage/wordimage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/dialogs/wordimage/wordimage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/jsp/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/jsp/controller.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/jsp/lib/commons-codec-1.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/jsp/lib/commons-fileupload-1.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/jsp/lib/commons-io-2.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/jsp/lib/json.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/jsp/lib/ueditor-1.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/lang/en/en.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/lang/en/images/addimage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/lang/en/images/alldeletebtnhoverskin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/lang/en/images/alldeletebtnupskin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/lang/en/images/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/lang/en/images/button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/lang/en/images/copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/lang/en/images/deletedisable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/lang/en/images/deleteenable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/lang/en/images/listbackground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/lang/en/images/localimage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/lang/en/images/music.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/lang/en/images/rotateleftdisable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/lang/en/images/rotateleftenable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/lang/en/images/rotaterightdisable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/lang/en/images/rotaterightenable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/lang/en/images/upload.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/lang/zh-cn/images/copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/lang/zh-cn/images/localimage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/lang/zh-cn/images/music.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/lang/zh-cn/images/upload.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/lang/zh-cn/zh-cn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/themes/default/css/ueditor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/themes/default/css/ueditor.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/themes/default/dialogbase.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/themes/default/images/anchor.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/themes/default/images/arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/themes/default/images/arrow_down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/themes/default/images/arrow_up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/themes/default/images/button-bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/themes/default/images/cancelbutton.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/themes/default/images/charts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/themes/default/images/cursor_h.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/themes/default/images/cursor_h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/themes/default/images/cursor_v.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/themes/default/images/cursor_v.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/themes/default/images/dialog-title-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/themes/default/images/filescan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/themes/default/images/highlighted.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/themes/default/images/icons-all.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/themes/default/images/icons.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/themes/default/images/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/themes/default/images/loaderror.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/themes/default/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/themes/default/images/lock.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/themes/default/images/neweditor-tab-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/themes/default/images/pagebreak.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/themes/default/images/scale.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/themes/default/images/sortable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/themes/default/images/spacer.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/themes/default/images/sparator_v.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/themes/default/images/table-cell-align.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/themes/default/images/tangram-colorpicker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/themes/default/images/toolbar_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/themes/default/images/unhighlighted.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/themes/default/images/upload.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/themes/default/images/videologo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/themes/default/images/word.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/themes/default/images/wordpaste.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/themes/iframe.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/SyntaxHighlighter/shCore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/SyntaxHighlighter/shCoreDefault.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/codemirror/codemirror.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/codemirror/codemirror.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/highcharts/adapters/mootools-adapter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/highcharts/adapters/mootools-adapter.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/highcharts/adapters/prototype-adapter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/highcharts/adapters/prototype-adapter.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/highcharts/adapters/standalone-framework.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/highcharts/adapters/standalone-framework.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/highcharts/highcharts-more.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/highcharts/highcharts-more.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/highcharts/highcharts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/highcharts/highcharts.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/highcharts/modules/annotations.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/highcharts/modules/annotations.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/highcharts/modules/canvas-tools.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/highcharts/modules/canvas-tools.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/highcharts/modules/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/highcharts/modules/data.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/highcharts/modules/drilldown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/highcharts/modules/drilldown.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/highcharts/modules/exporting.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/highcharts/modules/exporting.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/highcharts/modules/funnel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/highcharts/modules/funnel.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/highcharts/modules/heatmap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/highcharts/modules/heatmap.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/highcharts/modules/map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/highcharts/modules/map.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/highcharts/modules/no-data-to-display.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/highcharts/modules/no-data-to-display.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/highcharts/themes/dark-blue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/highcharts/themes/dark-green.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/highcharts/themes/gray.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/highcharts/themes/grid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/highcharts/themes/skies.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/jquery-1.10.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/jquery-1.10.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/jquery-1.10.2.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/snapscreen/UEditorSnapscreen.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/video-js/font/vjs.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/video-js/font/vjs.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/video-js/font/vjs.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/video-js/font/vjs.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/video-js/video-js.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/video-js/video-js.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/video-js/video-js.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/video-js/video.dev.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/video-js/video.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/webuploader/Uploader.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/webuploader/webuploader.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/webuploader/webuploader.custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/webuploader/webuploader.custom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/webuploader/webuploader.flashonly.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/webuploader/webuploader.flashonly.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/webuploader/webuploader.html5only.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/webuploader/webuploader.html5only.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/webuploader/webuploader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/webuploader/webuploader.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/webuploader/webuploader.withoutimage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/webuploader/webuploader.withoutimage.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/xss.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/zeroclipboard/ZeroClipboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/zeroclipboard/ZeroClipboard.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/third-party/zeroclipboard/ZeroClipboard.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/ueditor.all.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/ueditor.all.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/ueditor.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/ueditor.parse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/ueditor/ueditor.parse.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/weixin/weixinAll.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/weixin/weixinAllnotAC.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/weixin/weixinCourse.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/weixin/weixinFilterMoth.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/weixin/weixinMoth.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/weixin/weixinMothnotAC.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/weixin/weixinWeek.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/weixin/weixinWeeknotAC.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/weixin/weixinYestoday.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/weixin/weixinYestodaynotAC.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/weixinReport/weixinAll.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/weixinReport/weixinCourse.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/weixinReport/weixinFilterMoth.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/weixinReport/weixinMoth.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/artifacts/MyWebProject_war_exploded/weixinReport/weixinPerformance.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/production/MyWebProject/META-INF/MyWebProject.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/production/MyWebProject/application-spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/production/MyWebProject/application-transaction.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/production/MyWebProject/com/hjcrm/publics/contstants/JumpViewConstants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/production/MyWebProject/com/hjcrm/publics/contstants/ReturnConstants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/production/MyWebProject/com/hjcrm/publics/util/DateUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/production/MyWebProject/com/hjcrm/publics/util/JsonUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/production/MyWebProject/com/hjcrm/publics/util/MD5Utils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/production/MyWebProject/com/hjcrm/publics/util/PageBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/production/MyWebProject/com/hjcrm/publics/util/UserContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/production/MyWebProject/com/hjcrm/system/controller/CourseController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/production/MyWebProject/com/hjcrm/system/controller/DeptController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/production/MyWebProject/com/hjcrm/system/controller/LoginController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/production/MyWebProject/com/hjcrm/system/controller/MenuController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/production/MyWebProject/com/hjcrm/system/controller/RoleController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/production/MyWebProject/com/hjcrm/system/controller/SubjectController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/production/MyWebProject/com/hjcrm/system/controller/SystemMessageController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/production/MyWebProject/com/hjcrm/system/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/production/MyWebProject/com/hjcrm/system/entity/Dept.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/production/MyWebProject/com/hjcrm/system/entity/Menu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/production/MyWebProject/com/hjcrm/system/entity/Role.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/production/MyWebProject/com/hjcrm/system/entity/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/production/MyWebProject/com/hjcrm/system/mapper/DeptDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/production/MyWebProject/com/hjcrm/system/mapper/DeptDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/production/MyWebProject/com/hjcrm/system/mapper/MenuDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/production/MyWebProject/com/hjcrm/system/mapper/MenuDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/production/MyWebProject/com/hjcrm/system/mapper/RoleDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/production/MyWebProject/com/hjcrm/system/mapper/RoleDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/production/MyWebProject/com/hjcrm/system/mapper/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/production/MyWebProject/com/hjcrm/system/mapper/UserDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/production/MyWebProject/com/hjcrm/system/service/IDeptService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/production/MyWebProject/com/hjcrm/system/service/IUserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/production/MyWebProject/com/hjcrm/system/service/impl/DeptServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/production/MyWebProject/com/hjcrm/system/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/production/MyWebProject/com/hjcrm/system/test/ServiceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/production/MyWebProject/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/production/MyWebProject/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/production/MyWebProject/log4j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/production/MyWebProject/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/out/production/MyWebProject/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/resources/application-spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/resources/application-transaction.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/resources/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/resources/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/resources/log4j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/resources/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/src/com/hjcrm/publics/contstants/JumpViewConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/src/com/hjcrm/publics/contstants/ReturnConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/src/com/hjcrm/publics/util/DateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/src/com/hjcrm/publics/util/JsonUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/src/com/hjcrm/publics/util/MD5Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/src/com/hjcrm/publics/util/PageBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/src/com/hjcrm/publics/util/UserContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/src/com/hjcrm/system/controller/CourseController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/src/com/hjcrm/system/controller/DeptController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/src/com/hjcrm/system/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/src/com/hjcrm/system/controller/MenuController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/src/com/hjcrm/system/controller/RoleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/src/com/hjcrm/system/controller/SubjectController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/src/com/hjcrm/system/controller/SystemMessageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/src/com/hjcrm/system/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/src/com/hjcrm/system/entity/Dept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/src/com/hjcrm/system/entity/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/src/com/hjcrm/system/entity/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/src/com/hjcrm/system/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/src/com/hjcrm/system/mapper/DeptDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/src/com/hjcrm/system/mapper/DeptDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/src/com/hjcrm/system/mapper/MenuDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/src/com/hjcrm/system/mapper/MenuDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/src/com/hjcrm/system/mapper/RoleDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/src/com/hjcrm/system/mapper/RoleDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/src/com/hjcrm/system/mapper/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/src/com/hjcrm/system/mapper/UserDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/src/com/hjcrm/system/service/IDeptService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/src/com/hjcrm/system/service/IUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/src/com/hjcrm/system/service/impl/DeptServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/src/com/hjcrm/system/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/src/com/hjcrm/system/test/ServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/commission/commissionAll.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/commission/commissionJJKF.JSP" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/commission/commissionSCJG.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/common/meunNav.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/custom/AFPStudentMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/custom/AFPallStudentMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/custom/AFPhfDetails.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/custom/CFPStudentMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/custom/CFPallStudentMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/custom/CFPhfDetails.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/custom/addDetails.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/custom/addStudentMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/custom/allStudentMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/custom/cjcyallStudentMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/custom/cjkjStudentMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/custom/cjkjallStudentMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/custom/jiJinStudentMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/custom/jijinallStudentMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/custom/kjcyStudentMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/custom/kjcyallStudentMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/custom/passDetails.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/custom/passStudentMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/custom/publiceHFDetails.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/custom/qiHuoStudentMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/custom/qihuoallStudentMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/custom/specialDetails.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/custom/specialStudentMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/custom/studentDetails.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/custom/yinCongStudentMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/custom/yincongallStudentMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/custom/zhengQuanStudentMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/custom/zhengquanallStudentMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/custom/zhongJiStudentMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/custom/zhongjiallStudentMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/executive/accountDetails.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/executive/accountStudent.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/executive/buyOnline.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/executive/colseCourse.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/executive/matchMoney.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/executive/networkTrain.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/executive/studentDetails.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/executive/studentMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/finance/financeStudentMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/finance/macthinfor.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/finance/networkTrain.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/operate/jinkaouser.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/operate/resourcesMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/operate/studentMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/operate/transferRecord.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/page404_2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/patter/myPatter.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/patter/patterType.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/report/performance.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/report/userCount.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/sales/companyResourcesMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/sales/details.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/sales/resourcesMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/sales/salesTelAmount.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/sales/studentDetails.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/sales/studentMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/sales/transferRecord.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/system/charts.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/system/courseMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/system/deptMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/system/email.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/system/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/system/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/system/messageMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/system/meunMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/system/resetPwd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/system/roleMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/system/subjectMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/jsp/system/userMang.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/Qrcode_swetake.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/Sdk4J.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/activation.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/alipay-sdk-java20160803120101.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/antlr.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/asm-4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/aspectjrt-1.6.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/aspectjweaver-1.6.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/async-http-client-1.8.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/axis-ant.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/axis.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/bcpkix-jdk15on-152.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/bcprov-jdk15on-152.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/cglib-3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/commons-beanutils-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/commons-codec-1.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/commons-collections.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/commons-dbcp-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/commons-discovery-0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/commons-email-1.2-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/commons-email-1.2-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/commons-email-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/commons-fileupload-1.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/commons-fileupload-1.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/commons-httpclient-3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/commons-io-2.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/commons-io-2.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/commons-lang-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/commons-logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/commons-pool-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/core-3.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/dom4j-1.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/ehcache-core-2.5.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/ehcache-spring-annotations-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/ejb3-persistence.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/excelutils.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/ezmorph-1.0.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/fastjson-1.1.37.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/gson-2.2.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/guava-13.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/httpclient-4.5.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/httpcore-4.4.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/jackson-annotations-2.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/jackson-core-2.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/jackson-core-asl-1.9.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/jackson-databind-2.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/jackson-mapper-asl-1.9.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/jave-1.0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/jaxen-1.1-beta-6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/jaxrpc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/jdom.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/jpush-client-3.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/json-lib-2.4-jdk15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/json.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/jsoup-1.8.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/log4j-adapter-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/log4j.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/mail.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/mongo-java-driver-3.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/mybatis-3.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/mybatis-spring-1.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/mysql-connector-java-5.1.30-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/netty-3.9.2.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/pinyin4j-2.5.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/poi-3.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/poi-3.7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/quartz-all-1.8.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/saaj.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/servlet-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/shiro-cas-1.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/shiro-core-1.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/shiro-ehcache-1.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/shiro-spring-1.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/shiro-web-1.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/slf4j-api-1.7.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/slf4j-log4j12-1.7.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/smsservice.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/spring-aop-3.2.13.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/spring-beans-3.2.13.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/spring-context-3.2.13.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/spring-context-support-3.2.13.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/spring-core-3.2.13.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/spring-expression-3.2.13.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/spring-jdbc-3.2.13.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/spring-test-3.2.6.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/spring-tx-3.2.13.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/spring-web-3.2.13.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/spring-webmvc-3.2.13.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/stax-api-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/stax-utils-20040917.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/tls_sig_api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/tm-extractors-0.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/ueditor-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/ueditor-1.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/urlrewritefilter-4.0.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/wsdl4j-1.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/wstx-asl-3.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/xmlpull-1.1.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/xom-1.2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/xpp3-1.1.4c.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/xpp3_min-1.1.4c.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/lib/xstream-1.4.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/common/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/common/css/common.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/common/css/details.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/common/css/jquery.datetimepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/common/css/page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/common/css/winTip.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/common/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/common/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/common/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/common/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/common/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/common/img/close1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/common/js/ajaxPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/common/js/angular.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/common/js/boot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/common/js/echarts.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/common/js/jquery-1.11.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/common/js/jquery.datetimepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/common/js/js-extend.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/common/js/mydefinel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/common/js/reconnecting-websocket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/common/js/winTip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/custom/js/AFPStudentMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/custom/js/AFPallStudentMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/custom/js/CFPStudentMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/custom/js/CFPallStudentMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/custom/js/addDetails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/custom/js/addStudentMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/custom/js/cjkjStudentMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/custom/js/cjkjallStudentMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/custom/js/hfDetails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/custom/js/jiJinStudentMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/custom/js/jijinallStudentMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/custom/js/kjcyStudentMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/custom/js/kjcyallStudentMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/custom/js/passStudentMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/custom/js/pubilcAllstudent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/custom/js/qiHuoStudentMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/custom/js/qihuoallStudentMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/custom/js/specialStudentMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/custom/js/yinCongStudentMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/custom/js/yincongallStudentMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/custom/js/zhengQuanStudentMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/custom/js/zhengquanallStudentMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/custom/js/zhongJiStudentMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/custom/js/zhongjiallStudentMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/executive/js/accountStudent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/executive/js/buyOline.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/executive/js/colseCourse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/executive/js/matchMoney.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/executive/js/networkTrain.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/executive/js/studentDetails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/executive/js/studentMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/finance/js/financeStudentMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/finance/js/macthinfor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/finance/js/networkTrain.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/operate/css/resourcesMang.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/operate/img/upload.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/operate/js/jinkaouser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyWebProject/web/operate/js/resourceMang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebProject/out/artifacts/WebProject_war_exploded/system/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebProject/out/artifacts/WebProject_war_exploded/system/css/resetPwd.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebProject/out/artifacts/WebProject_war_exploded/system/css/userMang.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LiuJunYi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LiuJunYi/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/publics/utils/UserContext.java" />
+        <option value="$PROJECT_DIR$/src/com/system/controllers/DeptController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/lib.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="751" />
+    <option name="y" value="158" />
+    <option name="width" value="1441" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LiuJunYi01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LiuJunYi01" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../../sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\System\IDEAProject\LiuJunYi01\web" />
+      <recent name="D:\System\IDEAProject\LiuJunYi01\src" />
+      <recent name="D:\System\IDEAProject\LiuJunYi01" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c8a5034-7507-46d6-9612-e60b1ce1d6a2" name="Default Changelist" comment="" />
+      <created>1577159315389</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577159315389</updated>
+      <workItem from="1577159319825" duration="613000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="613000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="751" y="158" width="1441" height="735" extended-state="0" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Web" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24981897" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" visible="true" weight="0.32928944" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/resources/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/publics/utils/JsonUtil.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/system/controllers/LoginandRegController.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/system/dao/RolesDao.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/system/service/IRoleService.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/system/controllers/RolesController.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/system/bean/User.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/system/dao/DeptDao.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/web.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/publics/utils/UserContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/publics/utils/PageBean.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/publics/constants/JumpViewConstans.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/system/controllers/DeptController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>LiuJunYi01</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

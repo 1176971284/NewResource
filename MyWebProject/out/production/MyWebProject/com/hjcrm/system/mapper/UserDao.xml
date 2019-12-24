@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+		PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+		"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.hjcrm.system.mapper.UserDao">
+	<select id="queryUserInfoByEmail"   resultType="user">
+		select userid,username,roleid from hj_user where email=#{username}
+	</select>
+
+	<select id="queryPasswordIsExis"   parameterType="user"  resultType="user">
+		select userid from hj_user where userid=#{userid} and password=#{password}
+	</select>
+
+
+	<select id="queryAllUserInfo"   parameterType="com.hjcrm.publics.util.PageBean"  resultType="user">
+		select u.userid,u.username,u.phone,u.sex,u.roleid,u.deptid,u.email from hj_user u
+		   limit #{currentPage}, #{pageSize};
+	</select>
+
+</mapper>

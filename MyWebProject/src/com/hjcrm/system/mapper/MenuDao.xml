@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.hjcrm.system.mapper.MenuDao">
+    <select id="queryMenuByRoleId"  parameterType="hashmap"  resultType="menu">
+        select  m.menuid,m.menuname,m.menuurl,m.menuimgurl from hj_role r
+        LEFT JOIN hj_role_menu rm on r.roleid = rm.roleid
+        left join hj_menu m on m.menuid = rm.menuid
+
+        <!-- <where>
+             <if test=" r.roleid!=null and r.roleid!='' ">-->
+        where 	 r.roleid=#{roleid}
+        <!--  </if>
+          <if test=" m.menuparaid!=null and m.menuparaid!='' ">-->
+        and m.menuparaid=#{menuparaid}
+        <!--  </if>
+      </where>-->
+    </select>
+
+</mapper>
